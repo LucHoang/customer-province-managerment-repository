@@ -1,0 +1,28 @@
+com/hsl/model/Customer.java
+ com.hsl.model.Customer
+com/hsl/service/IProvinceService.java
+ com.hsl.service.IProvinceService
+com/hsl/service/IGeneralService.java
+ com.hsl.service.IGeneralService
+com/hsl/configuration/AppConfig.java
+ com.hsl.configuration.AppConfig
+com/hsl/model/Province.java
+ com.hsl.model.Province
+com/hsl/repository/IProvinceRepository.java
+ com.hsl.repository.IProvinceRepository
+com/hsl/formatter/ProvinceFormatter.java
+ com.hsl.formatter.ProvinceFormatter
+com/hsl/service/ProvinceService.java
+ com.hsl.service.ProvinceService
+com/hsl/configuration/AppInit.java
+ com.hsl.configuration.AppInit
+com/hsl/controller/CustomerController.java
+ com.hsl.controller.CustomerController
+com/hsl/service/CustomerService.java
+ com.hsl.service.CustomerService
+com/hsl/repository/ICustomerRepository.java
+ com.hsl.repository.ICustomerRepository
+com/hsl/service/ICustomerService.java
+ com.hsl.service.ICustomerService
+com/hsl/controller/ProvinceController.java
+ com.hsl.controller.ProvinceController
